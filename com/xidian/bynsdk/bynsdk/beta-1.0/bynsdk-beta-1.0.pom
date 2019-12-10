@@ -174,7 +174,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>alibc_link_partner</artifactId>
-      <version>4.1.11</version>
+      <version>4.1.15</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -187,7 +187,7 @@
     <dependency>
       <groupId>com.taobao.android</groupId>
       <artifactId>utdid4all</artifactId>
-      <version>1.1.5.3_proguard</version>
+      <version>1.5.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -199,7 +199,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>AlibcTradeCommon</artifactId>
-      <version>4.0.0.2</version>
+      <version>4.0.0.8</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -212,7 +212,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>AlibcTradeBiz</artifactId>
-      <version>4.0.0.2</version>
+      <version>4.0.0.8</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -225,7 +225,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>nb_trade</artifactId>
-      <version>4.0.0.2</version>
+      <version>4.0.0.8</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -263,6 +263,18 @@
       <groupId>com.github.kingideayou</groupId>
       <artifactId>tagcloudview</artifactId>
       <version>1.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.trello.rxlifecycle2</groupId>
+      <artifactId>rxlifecycle</artifactId>
+      <version>2.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.trello.rxlifecycle2</groupId>
+      <artifactId>rxlifecycle-components</artifactId>
+      <version>2.2.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
