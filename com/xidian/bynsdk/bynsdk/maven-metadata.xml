@@ -3,7 +3,7 @@
   <groupId>com.xidian.bynsdk</groupId>
   <artifactId>bynsdk</artifactId>
   <versioning>
-    <release>release-1.2</release>
+    <release>release-1.3</release>
     <versions>
       <version>1.0</version>
       <version>beta-1.0</version>
@@ -25,7 +25,8 @@
       <version>release-1.0</version>
       <version>release-1.1</version>
       <version>release-1.2</version>
+      <version>release-1.3</version>
     </versions>
-    <lastUpdated>20191225031652</lastUpdated>
+    <lastUpdated>20191225033110</lastUpdated>
   </versioning>
 </metadata>
